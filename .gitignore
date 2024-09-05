@@ -120,3 +120,5 @@ cython_debug/
 # Windows
 Thumbs.db
 ehthumbs.db
+
+*.github
